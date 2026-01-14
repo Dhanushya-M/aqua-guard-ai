@@ -1,4 +1,4 @@
-# 🌊 AquaGuard AI — Smart Water Usage Advisor (Version 2)
+# 🌊 AquaGuard AI — Smart Water Usage Advisor 
 AI-powered assistant promoting sustainable water usage  
 Built using **Python + Flask + TF-IDF semantic retrieval**
 
