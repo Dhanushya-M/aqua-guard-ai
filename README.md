@@ -140,15 +140,6 @@ Restart app to refresh.
 
 ---
 
-## 📸 Screenshots
-Add images here (optional):
-```
-static/screenshots/
-```
-Reference in Markdown:
-```
-![Demo UI](static/screenshots/demo1.png)
-```
 
 ---
 
